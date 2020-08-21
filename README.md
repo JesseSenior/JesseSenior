@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+## This noob is too lazy to do anything.😝
+# So if you find this guy, please ask him to finish his paper.😑
 <!--
 **JesseSenior/JesseSenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
